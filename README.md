@@ -1,4 +1,4 @@
-# snake
+# 🐍 PySnake
 The game "snake" in python.
 
 Currently, there are many snakes and apples, this can be adjusted fairly easily
